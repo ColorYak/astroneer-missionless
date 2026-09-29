@@ -1,0 +1,10 @@
+{
+  "schema_version": 2,
+  "name": "Astroneer Missionless",
+  "mod_id": "AstroneerMissionless",
+  "author": "astroneer-missionless contributors",
+  "description": "Removes stock missions except the oxygenator mission and makes mission-only research available in the catalog.",
+  "version": "1.0.0",
+  "game_build": "1.44.4.0",
+  "sync": "serverclient"
+}

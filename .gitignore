@@ -1,0 +1,5 @@
+.build.*
+.tools/
+dist/
+src/**/bin/
+src/**/obj/
